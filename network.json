@@ -34,8 +34,14 @@
         },
         {
             "name": "data.csv"
+        },
+        {
+            "assigned_to": "not assigned",
+            "desc": "eda",
+            "name": "script5522.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-09-27 15:13:47",
+    "updated_at": "2018-09-27 15:31:55",
     "url": "https://github.com/fall2018-saltz/sa_ds_project"
 }
